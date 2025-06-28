@@ -1,5 +1,5 @@
 # Library Management System
-A console-based system developed in C++ for managing books, users, issuing/returning of books, and maintaining records efficiently. It uses data structures like binary search trees, hash tables, queues, and stacks.
+A C++ console application for managing books, users, and records using data structures like BSTs, hash tables, queues, and stacks.
 # Features
 -Add and manage books with ISBN, title, and author
 
