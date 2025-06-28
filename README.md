@@ -20,5 +20,7 @@ A console-based system developed in C++ for managing books, users, issuing/retur
 -Menu-driven console interface for easy navigation
 #  Technologies Used
 -Language: C++
+
 -Concepts: OOP, Data Structures (BST, Stack, Queue, Hash Table)
+
 -Libraries: iostream, string
